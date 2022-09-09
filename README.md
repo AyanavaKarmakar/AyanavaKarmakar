@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ayanava Karmakar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Kloud Pad](https://github.com/AyanavaKarmakar/Kloud-Pad-Client)
+- 🔭 I’m currently working on [Portfolio v2](https://github.com/AyanavaKarmakar/Personal-Website)
 
 - 🌱 I’m currently learning **React, TypeScript, GraphQL, Material-UI & Next.js**
 

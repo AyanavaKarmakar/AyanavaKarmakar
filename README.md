@@ -12,5 +12,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AyanavaKarmakar&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyanavaKarmakar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lsim0zca515wz2hbtlxa3rpf7&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=lsim0zca515wz2hbtlxa3rpf7&redirect=true)

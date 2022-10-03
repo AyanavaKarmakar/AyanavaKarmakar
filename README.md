@@ -10,4 +10,4 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AyanavaKarmakar&theme=tokyonight&hide_border=false)<br/>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lsim0zca515wz2hbtlxa3rpf7&cover_image=true&theme=default&show_offline=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=lsim0zca515wz2hbtlxa3rpf7&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lsim0zca515wz2hbtlxa3rpf7&cover_image=true&theme=novatorem&show_offline=true&bar_color=47f0ce&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=lsim0zca515wz2hbtlxa3rpf7&redirect=true)

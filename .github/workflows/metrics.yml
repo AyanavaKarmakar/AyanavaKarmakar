@@ -78,4 +78,4 @@ jobs:
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com/@ayanavakarmakar
           plugin_wakatime_user: ayanavakarmakar
-          plugin_wakatime_api: ${{ secrets.WAKATIME_API_TOKEN }}
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_TOKEN }}

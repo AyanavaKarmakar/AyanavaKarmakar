@@ -7,5 +7,7 @@
   </a>
   
   ![Visitor Count](https://profile-counter.glitch.me/AyanavaKarmakar/count.svg)
+ 
+  [![wakatime](https://wakatime.com/badge/user/836c0ebd-719b-4f12-b8d2-5ce83defb3bd.svg)](https://wakatime.com/@836c0ebd-719b-4f12-b8d2-5ce83defb3bd)
 
 </div>

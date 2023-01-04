@@ -2,7 +2,7 @@
 
  <a href="http://linktree.ayanavakarmakar.software/" target="_blank" rel="noreferrer">
     
-  ![ARID](https://socialify.git.ci/AyanavaKarmakar/AyanavaKarmakar/image?description=1&descriptionEditable=Tauri%20|%20Astro%20|%20Next.js%20&font=Inter&language=0&owner=0&pattern=solid&theme=Dark)
+  ![ARID](https://socialify.git.ci/AyanavaKarmakar/AyanavaKarmakar/image?description=1&descriptionEditable=Next.js%20|%20Astro%20|%20Tauri%20&font=Inter&language=0&owner=0&pattern=solid&theme=Dark)
 
  </a>
 <!-- ![Spotify-Recent-Plays](https://spotify-recently-played-readme.vercel.app/api?user=lsim0zca515wz2hbtlxa3rpf7&unique={true|1|on|yes}) -->

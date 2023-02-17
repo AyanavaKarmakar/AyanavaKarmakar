@@ -2,7 +2,7 @@
 
  <a href="http://linktree.ayanavakarmakar.software/" target="_blank" rel="noreferrer">
     
-  ![ARID](https://socialify.git.ci/AyanavaKarmakar/AyanavaKarmakar/image?description=1&descriptionEditable=Next.js%20|%20Astro%20|%20Tauri%20&font=Inter&language=0&owner=0&pattern=solid&theme=Dark)
+  ![ARID](https://socialify.git.ci/AyanavaKarmakar/AyanavaKarmakar/image?description=1&descriptionEditable=Next.js%20|%20Node.js%20|%20Express.js%20|%20Astro%20&font=Inter&language=0&owner=0&pattern=solid&theme=Dark)
 
  </a>
  

@@ -1,10 +1,4 @@
 <div align="center">
-
- <a href="http://linktree.ayanavakarmakar.software/" target="_blank" rel="noreferrer">
-    
-  ![ARID](https://socialify.git.ci/AyanavaKarmakar/AyanavaKarmakar/image?description=1&descriptionEditable=Next.js%20|%20Node.js%20|%20Spring%20Boot%20|%20Astro&font=Inter&language=0&owner=0&pattern=solid&theme=Dark)
-
- </a>
  
 <a href="https://quine.sh/profile/AyanavaKarmakar"><img src="https://stats.quine.sh/AyanavaKarmakar/github?theme=dark" alt="AyanavaKarmakar's GitHub stats"  width="800px"></a>
  
